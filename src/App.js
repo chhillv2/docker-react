@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React fever dccvv
+          Learn React fever dccvv feature
         </a>
       </header>
     </div>
